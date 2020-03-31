@@ -7,8 +7,7 @@ public:
 	gameStart();
 
 private:
-	std::vector<std::vector<int>> numList;
-	std::vector<std::vector<int>> buildList();
+	
 
 };
 

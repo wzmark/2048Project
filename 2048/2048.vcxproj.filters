@@ -21,7 +21,7 @@
     <ClCompile Include="gameStart.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="printScreen.cpp">
+    <ClCompile Include="Board.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -29,7 +29,7 @@
     <ClInclude Include="gameStart.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="printScreen.h">
+    <ClInclude Include="Board.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
