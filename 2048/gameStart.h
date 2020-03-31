@@ -4,10 +4,11 @@
 class gameStart
 {
 public:
-	std::vector<std::vector<int>> buildList();
+	gameStart();
 
 private:
 	std::vector<std::vector<int>> numList;
+	std::vector<std::vector<int>> buildList();
 
 };
 
